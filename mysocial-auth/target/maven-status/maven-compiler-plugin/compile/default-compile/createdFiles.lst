@@ -1,0 +1,3 @@
+com/pnimac/auth/model/User.class
+com/pnimac/auth/AuthServiceApplication.class
+com/pnimac/auth/repository/UserRepository.class
